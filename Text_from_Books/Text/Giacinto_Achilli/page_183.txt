@@ -1,0 +1,17 @@
+3.3.2 CHEMICAL PROPERTIES
+
+The alkali metals are highly reactive due to their large size and low ionization enthalpy. The reactivity of these metals increases down the group.
+
+(i) Reactivity towards air: The alkali metals tarnish in dry air due to the formation of their oxides which in turn react with moisture to form hydroxides. They burn vigorously in oxygen forming oxides. Lithium forms monoxide, sodium forms peroxide, the other metals form superoxides. The superoxide O2- ion is stable only in the presence of large cations such as K, Rb, Cs.
+4Li + O2 → 2Li2O (oxide)
+2Na + O2 → Na2O2 (peroxide)
+M + O2 → MO2 (superoxide)
+(M = K, Rb, Cs)
+
+In all these oxides the oxidation state of the alkali metal is +1. Lithium shows exceptional behaviour in reacting directly with nitrogen of air to form the nitride, Li3N as well. Because of their high reactivity towards air and water, alkali metals are normally kept in kerosene oil.
+
+Problem 3.1
+What is the oxidation state of K in KO2?
+
+Solution
+The superoxide species is represented as O2-; since the compound is neutral, therefore, the oxidation state of potassium is +1.
