@@ -1,0 +1,125 @@
+in a very large number of particles, the velocity of each particle will be different. The distribution of velocities among the particles is called Maxwell-Boltzmann distribution of velocities.
+
+The distribution of velocities among the molecules of a gas at a given temperature is shown in Fig. 13.10. The curve shows that :
+
+(i) Most of the molecules have velocities close to the average velocity.
+
+(ii) There are very few molecules which have either very low or very high velocities.
+
+(iii) The number of molecules having velocities greater than the average velocity is equal to the number of molecules having velocities less than the average velocity.
+
+The distribution of velocities is not symmetrical about the average velocity. This is because the lowest possible velocity is zero, while the highest possible velocity is infinite.
+
+The average velocity of the molecules of a gas is given by
+
+v = √(8RT/πM)
+
+where R is the gas constant, T is the temperature in kelvin and M is the molar mass of the gas.
+
+The root mean square velocity of the molecules of a gas is given by
+
+vrms = √(3RT/M)
+
+The most probable velocity of the molecules of a gas is given by
+
+vmp = √(2RT/M)
+
+The three velocities are related as follows :
+
+vmp : v : vrms = √2 : √(8/π) : √3
+
+or
+
+vmp : v : vrms = 1.414 : 1.596 : 1.732
+
+The distribution of velocities among the molecules of a gas is independent of the pressure of the gas. However, it depends on the temperature of the gas. As the temperature of the gas increases, the average velocity of the molecules increases and the distribution of velocities becomes broader.
+
+13.11 EFFECT OF TEMPERATURE ON THE KINETIC ENERGY OF GAS MOLECULES
+
+The kinetic energy of a molecule of mass m and velocity v is given by
+
+K.E. = 1/2 mv2
+
+The average kinetic energy of the molecules of a gas is given by
+
+K.E. = 1/2 mv2
+
+where v2 is the mean square velocity of the molecules.
+
+Substituting the value of v2 from Eq. (13.13), we get
+
+K.E. = 1/2 m × (3RT/M)
+
+or
+
+K.E. = 3/2 (R/N0)T
+
+where N0 is Avogadro's number.
+
+Since R/N0 = k (Boltzmann constant), we have
+
+K.E. = 3/2 kT
+
+Thus, the average kinetic energy of the molecules of a gas is directly proportional to the absolute temperature of the gas. This is known as the kinetic theory of gases.
+
+13.12 DEGREE OF FREEDOM
+
+The number of independent ways in which a molecule can possess energy is called its degree of freedom.
+
+A monatomic gas molecule has three degrees of freedom, because it can move in three independent directions (x, y and z).
+
+A diatomic gas molecule has five degrees of freedom, because it can move in three independent directions and also rotate about two axes perpendicular to the line joining the two atoms.
+
+A triatomic gas molecule has six degrees of freedom, because it can move in three independent directions and also rotate about three axes.
+
+13.13 LAW OF EQUIPARTITION OF ENERGY
+
+According to the law of equipartition of energy, the total energy of a molecule is equally distributed among its various degrees of freedom.
+
+Thus, for a monatomic gas molecule, each degree of freedom has an average energy of 1/2 kT. Therefore, the total energy of a monatomic gas molecule is 3/2 kT.
+
+For a diatomic gas molecule, each degree of freedom has an average energy of 1/2 kT. Therefore, the total energy of a diatomic gas molecule is 5/2 kT.
+
+For a triatomic gas molecule, each degree of freedom has an average energy of 1/2 kT. Therefore, the total energy of a triatomic gas molecule is 6/2 kT or 3kT.
+
+13.14 SPECIFIC HEAT OF GASES
+
+The specific heat of a gas is the amount of heat required to raise the temperature of one gram of the gas by one degree Celsius (or one kelvin).
+
+The specific heat of a gas at constant volume (Cv) is the amount of heat required to raise the temperature of one gram of the gas by one degree Celsius (or one kelvin) at constant volume.
+
+The specific heat of a gas at constant pressure (Cp) is the amount of heat required to raise the temperature of one gram of the gas by one degree Celsius (or one kelvin) at constant pressure.
+
+The specific heats of gases can be calculated using the law of equipartition of energy.
+
+For a monatomic gas, Cv = 3/2 R and Cp = 5/2 R.
+
+For a diatomic gas, Cv = 5/2 R and Cp = 7/2 R.
+
+For a triatomic gas, Cv = 3R and Cp = 4R.
+
+The ratio of specific heats (γ) is defined as
+
+γ = Cp/Cv
+
+For a monatomic gas, γ = 5/3 = 1.67.
+
+For a diatomic gas, γ = 7/5 = 1.40.
+
+For a triatomic gas, γ = 4/3 = 1.33.
+
+13.15 BEHAVIOUR OF REAL GASES : DEVIATIONS FROM IDEAL GAS BEHAVIOUR
+
+Real gases do not obey the ideal gas equation perfectly. This is because real gas molecules have a finite volume and they also experience attractive forces between them.
+
+The deviations from ideal gas behaviour become significant at high pressures and low temperatures.
+
+The van der Waals equation is an improvement over the ideal gas equation. It takes into account the finite volume of gas molecules and the attractive forces between them. The van der Waals equation is given by
+
+(p + a/V2)(V - b) = RT
+
+where a and b are constants which depend on the nature of the gas.
+
+The term a/V2 represents the attractive forces between the gas molecules. The term b represents the volume of the gas molecules.
+
+The van der Waals equation is more accurate than the ideal gas equation, but it is still not perfect. It is most accurate for gases at moderate pressures and temperatures.
