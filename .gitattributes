@@ -1,2 +1,2 @@
-LLM_Data/*.csv filter=lfs diff=lfs merge=lfs -text
+LLM_Data/** filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
